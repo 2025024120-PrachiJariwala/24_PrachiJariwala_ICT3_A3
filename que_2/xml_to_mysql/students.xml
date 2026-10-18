@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <roll_no>1</roll_no>
+        <name>Prachi</name>
+        <city>Surat</city>
+    </student>
+    <student>
+        <roll_no>2</roll_no>
+        <name>Rahul</name>
+        <city>Ahmedabad</city>
+    </student>
+    <student>
+        <roll_no>3</roll_no>
+        <name>Neha</name>
+        <city>Vadodara</city>
+    </student>
+</students>
